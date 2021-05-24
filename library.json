@@ -1,0 +1,19 @@
+{
+	"name": "SuperSerial",
+	"version": "1.0.0",
+	"keywords": "communication",
+	"description": "Library for robust serial communication with CRC-CCITT checksum.",
+	"authors":
+	[
+		{
+		"name": "Guus van der Sluijs",
+		"email": "guus@guusvandersluijs.com"
+		}
+	],
+	"repository":
+	{
+		"type": "git",
+		"url": "https://github.com/84Guzz/SuperSerial.git"
+	},
+	"frameworks": "arduino"
+}

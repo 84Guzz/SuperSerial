@@ -1,0 +1,6 @@
+SuperSerial	KEYWORD1
+Telegram	KEYWORD1
+send		KEYWORD2
+update		KEYWORD2
+available	KEYWORD2
+read		KEYWORD2
